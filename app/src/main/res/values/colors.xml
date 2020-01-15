@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="WheelFilterSideActivity">#223F51B5</color>
+    <color name="WheelFilterSideDialog">#22FF4081</color>
+    <color name="WheelFilter">#22FFFFFF</color>
+</resources>

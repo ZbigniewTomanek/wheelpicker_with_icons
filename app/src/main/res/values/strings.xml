@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomPicker</string>
+    <string name="day1_label">Day 1</string>
+    <string name="label_day2">Day 2</string>
+</resources>
